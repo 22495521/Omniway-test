@@ -27,6 +27,9 @@ DATABASE_PASSWORD = "yoaymj3C474VsrysWLp3"
 # JTW Token 密鑰
 JWT_SECRET = "secret"
 
+# refresh JWT Token 蜜鑰
+JWT_Refresh_SECRET = "Refresh secret"
+
 ```
 
 ### 運行專案
